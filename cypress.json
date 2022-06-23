@@ -1,0 +1,7 @@
+{"baseUrl": "https://www.benzinga.com/profile",
+    "env": {
+      "url": "portfolio"
+      
+    },
+    "defaultCommandTimeout":10000
+}
